@@ -1,5 +1,9 @@
 # shiro550反序列化漏洞
 
+### 利用工具
+
+{% file src="../../.gitbook/assets/shiro_attack-1.5.jar" %}
+
 Apache Shiro是一个开源安全框架，它提供了身份验证、授权、加密和会话管理。Shiro的框架直观且易于使用，同时提供了强大的安全性。在Apache Shiro 1.2.4及更早的版本中，加密的用户信息被序列化并存储在一个名为remember-me的Cookie中。攻击者可以使用Shiro的默认密钥伪造用户cookie，触发Java反序列化漏洞，然后在目标机器上执行任意命令。
 
 <=1.2.4硬编码密钥为：kPH+bIxk5D2deZiIxcaaaA==
