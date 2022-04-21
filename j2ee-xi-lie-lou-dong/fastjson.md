@@ -1,5 +1,17 @@
 # Fastjson
 
+### 探测Fastjson
+
+探测是否存在Fastjson可以使用以下payload
+
+```
+{"@type":"java.net.Inet4Address","val":"bouaiq.dnslog.cn"}
+```
+
+为什么只要是Fastjson都可以进行探测呢？
+
+因为java.net.Inet4Address这个类在Fastjson的白名单内，所以无论什么时候都可以进行反序列化。
+
 ## 反序列化漏洞
 
 RMI链
