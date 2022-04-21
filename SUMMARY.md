@@ -10,6 +10,7 @@
   * [CVE-2017-12615](j2ee-xi-lie-lou-dong/tomcat/cve-2017-12615.md)
 * [shiro](j2ee-xi-lie-lou-dong/shiro/README.md)
   * [shiro550反序列化漏洞](j2ee-xi-lie-lou-dong/shiro/shiro550-fan-xu-lie-hua-lou-dong.md)
+* [Fastjson](j2ee-xi-lie-lou-dong/fastjson.md)
 
 ## PHP
 
