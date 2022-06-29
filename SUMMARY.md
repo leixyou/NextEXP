@@ -20,6 +20,7 @@
   * [SpringBoot](j2ee-xi-lie-lou-dong/spring/springboot/README.md)
     * [SpringBoot Actuator](j2ee-xi-lie-lou-dong/spring/springboot/springboot-actuator.md)
 * [XStream](j2ee-xi-lie-lou-dong/xstream.md)
+* [Resin](j2ee-xi-lie-lou-dong/resin.md)
 
 ## PHP
 
