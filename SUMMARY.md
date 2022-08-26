@@ -21,6 +21,7 @@
     * [SpringBoot Actuator](j2ee-xi-lie-lou-dong/spring/springboot/springboot-actuator.md)
 * [XStream](j2ee-xi-lie-lou-dong/xstream.md)
 * [Resin](j2ee-xi-lie-lou-dong/resin.md)
+* [Swagger](j2ee-xi-lie-lou-dong/swagger.md)
 
 ## PHP
 
